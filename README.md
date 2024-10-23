@@ -20,11 +20,20 @@ Dit is een Next.JS project gemaakt met de ```create-next-app```
 <!-- Voeg een mooie poster visual toe 📸 -->
 <!-- Voeg een link toe naar Github Pages 🌐-->
 Dit project is een namaak versie van een chatfunctie die ik al in Svelte heb opgezet.
+[https://github.com/TristanKatte/lose-your-head-the-client-case]
 
 
 ## Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
-## Getting Started
+De technieken die ik heb gebruikt deze sprint zijn:
+
+- werken met components
+- traditional css gebruiken i.p.v Tailwind
+- reguliere Javascript gebruikt
+
+
+
+## Installatie
 
 First, run the development server:
 
@@ -40,12 +49,13 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
 ## Learn More
 
+## Bronnen
 To learn more about Next.js, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
@@ -60,11 +70,11 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
 
-## Installatie
+
 
 ## Gebruik
 
-## Bronnen
+
 
 ## Licentie
 
